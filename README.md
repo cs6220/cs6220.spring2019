@@ -12,11 +12,11 @@ All communication/announcements related to the course will be done via Slack. As
 
 [![avatar](https://i.imgur.com/rPi1AEy.png)](https://www.linkedin.com/in/reidjohnson42)
 
-Reid Johnson is the course instructor. If you come across any questions, feel absolutely free to reach out directly (via Slack). 
+Reid Johnson is the course instructor. If you come across any questions, feel free to reach out directly (via Slack).
 
 ## Acknowledgments
 
-A large portion of the code snippets that are provided here were adapted from material that is freely available online. As such, you are strongly encouraged to review these (and any other relevant sources you may find) if you wish to improve your Python skills.  
+A large portion of the code snippets that are provided here were adapted from material that is freely available online. As such, you are strongly encouraged to review these (and any other relevant sources you may find) if you wish to improve your Python skills.
 
 * [Official scikit-learn Examples](http://scikit-learn.org/stable/auto_examples/)
 * [Official pandas Tutorials](http://pandas.pydata.org/pandas-docs/version/0.18.1/tutorials.html)
