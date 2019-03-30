@@ -9,5 +9,6 @@ This repository contains supporting datasets.
 * [Iris Flower Dataset](https://archive.ics.uci.edu/ml/datasets/iris) (iris.data)
 * [King County House Sales](https://www.kaggle.com/harlfoxem/housesalesprediction) (kc_house_data.csv)
 * [MovieLens 1M Dataset](https://grouplens.org/datasets/movielens/1m/) (ml-1m)
-* [Online Retail Dataset](https://archive.ics.uci.edu/ml/datasets/online+retail) (Online Retail.xlsx)
+* [MovieLens 1M Dataset](https://grouplens.org/datasets/movielens/1m/) (ml-1m)
+* [Pima Indians Diabetes Database](https://www.kaggle.com/uciml/pima-indians-diabetes-database) (diabetes.csv)
 * [Zoo Dataset](https://archive.ics.uci.edu/ml/datasets/zoo) (zoo)
