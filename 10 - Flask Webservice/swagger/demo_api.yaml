@@ -1,0 +1,42 @@
+swagger: '2.0'
+info:
+  title: Connexion Example API
+  version: "0.1"
+  description: Simple example Connexion API that performs multiplication
+
+paths:
+  /health:
+    get:
+      summary: Checks the health of the service
+      description: Returns the health status of the service
+      operationId: connexion_demo.health
+      responses:
+        '200':
+          description: Service is healthy
+        '500':
+          description: Service is unhealthy
+
+  /multiply:
+    post:
+      summary: Entrypoint to our multiplication function
+      operationId: connexion_demo.multiply
+      consumes:
+      - multipart/form-data
+      produces:
+      - application/json
+      parameters:
+        - in: formData
+          name: multiplicand
+          required: true
+          description: The multiplicand for our operation
+          type: number
+        - in: formData
+          name: multiplier
+          required: true
+          description: The multiplier for our operation
+          type: number
+      responses:
+        '200':
+          description: Multiplication performed successfully
+        '500':
+          description: Unable to perform the multiplication
