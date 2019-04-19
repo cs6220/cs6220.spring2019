@@ -29,5 +29,5 @@ Once you're done, you can stop your container by running `docker stop CONTAINER_
 
 ### Miscellaneous commands
 
-Save Docker image: `docker save cs6220/docker-demo:latest > demo.tar`
-Load Docker image: `docker load < demo.tar`
+* Save Docker image: `docker save cs6220/docker-demo:latest > demo.tar`
+* Load Docker image: `docker load < demo.tar`
