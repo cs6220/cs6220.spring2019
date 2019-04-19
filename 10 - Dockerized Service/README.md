@@ -26,3 +26,8 @@ Using a browser, navigate to `localhost:8080/ui` to access the Swagger interface
 ### Stop your container
 
 Once you're done, you can stop your container by running `docker stop CONTAINER_ID`. To retrieve the container_id, reference the output of `docker ps`.
+
+### Miscellaneous commands
+
+Save Docker image: `docker save cs6220/docker-demo:latest > demo.tar`
+Load Docker image: `docker load < demo.tar`
