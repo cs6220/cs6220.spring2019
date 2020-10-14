@@ -22,7 +22,7 @@
       ====== ===============================================================
            1 (41) aardvark, antelope, bear, boar, buffalo, calf,
                   cavy, cheetah, deer, dolphin, elephant,
-                  fruitbat, giraffe, girl, goat, gorilla, hamster,
+                  fruitbat, giraffe, goat, gorilla, hamster,
                   hare, leopard, lion, lynx, mink, mole, mongoose,
                   opossum, oryx, platypus, polecat, pony,
                   porpoise, puma, pussycat, raccoon, reindeer,
@@ -38,7 +38,7 @@
            7 (10) clam, crab, crayfish, lobster, octopus,
                   scorpion, seawasp, slug, starfish, worm
 
-5. Number of Instances: 101
+5. Number of Instances: 100
 
 6. Number of Attributes: 18 (animal name, 15 Boolean attributes, 2 numerics)
 
